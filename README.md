@@ -6,8 +6,6 @@
 
 🌱 Flutter!
 
-⚡ Fun fact: The first ever computer bug was an actual bug – a moth found trapped in a computer at Harvard in 1947 😄
-
 ✔️ C# | PHP
 
 ✔️ .NET | WordPress
@@ -21,3 +19,5 @@
 🔜 Dart | Flutter
 
 🌐 AR | EN | NL
+
+_⚡ Fun fact: The first ever computer bug was an actual bug – a moth found trapped in a computer at Harvard in 1947 😄_
