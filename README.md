@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**anas-ha/anas-ha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Clean & safe code!
+🌱 Currently educating myself more on cybersecurity.
+🌱 Flutter!
+⚡ Fun fact: The first ever computer bug was an actual bug – a moth found trapped in a computer at Harvard in 1947 😄
+✔️ C# | PHP
+✔️ .NET | WordPress
+✔️ SQL | MySQL
+✔️ JS | JQuery | AngularJS R.I.P ♱
+✔️ HTML | CSS
+🔜 Dart | Flutter
+🌐 AR | EN | NL
