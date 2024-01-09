@@ -1,5 +1,3 @@
-### Hi there 👋
-
 🔭 Clean & safe code!
 
 🌱 Currently educating myself more on cybersecurity.
