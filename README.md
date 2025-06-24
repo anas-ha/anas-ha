@@ -2,8 +2,6 @@
 
 🌱 Currently educating myself more on cybersecurity.
 
-🌱 Flutter!
-
 ✔️ C# | PHP
 
 ✔️ .NET | WordPress
@@ -13,8 +11,6 @@
 ✔️ JS | JQuery | AngularJS R.I.P ♱
 
 ✔️ HTML | CSS
-
-🔜 Dart | Flutter
 
 🌐 AR | EN | NL
 
