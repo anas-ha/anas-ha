@@ -1,17 +1,12 @@
-🔭 Clean & safe code!
+👋 Hi, I'm Anas .. a full-stack developer focused on clean, secure, and high-performance software.
 
-🌱 Currently educating myself more on cybersecurity.
+🧠 Clean & safe code  
+🔒 Performance, privacy, security & user-friendly
 
-✔️ C# | PHP
+**Languages:**  
+C# · PHP · JavaScript · SQL · HTML · CSS · Liquid
 
-✔️ .NET | WordPress
+**Frameworks & Tools:**  
+.NET · WordPress · 🌱 Laravel · Jekyll · SQL Server · MySQL · jQuery · AngularJS *(R.I.P ♱)* · SASS
 
-✔️ SQL | MySQL
-
-✔️ JS | JQuery | AngularJS R.I.P ♱
-
-✔️ HTML | CSS
-
-🌐 AR | EN | NL
-
-_⚡ Fun fact: The first ever computer bug was an actual bug – a moth found trapped in a computer at Harvard in 1947 😄_
+🌍 NL · EN · AR
